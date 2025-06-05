@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1745803730 source:c:\users\rplsmkn10smg\documents\codeblock\atmproject\main.cpp
+	<iostream>
+	<string>
+	<limits>
+
+1749107000 source:c:\users\ryuuk\onedrive\dokumen\atmproject\atmproject\main.cpp
+	<iostream>
+	<string>
+	<limits>
+	<iomanip>
+	<algorithm>
+	<ctime>
+	<sstream>
+
